@@ -14,14 +14,14 @@
     <hashTree>
       <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="jp@gc - Ultimate Thread Group" enabled="true">
         <collectionProp name="ultimatethreadgroupdata">
-          <collectionProp name="2063612478">
+          <collectionProp name="1237532990">
             <stringProp name="1598">20</stringProp>
             <stringProp name="48">0</stringProp>
             <stringProp name="1598">20</stringProp>
             <stringProp name="1598">20</stringProp>
             <stringProp name="1598">20</stringProp>
           </collectionProp>
-          <collectionProp name="-2144309985">
+          <collectionProp name="1035392841">
             <stringProp name="48749">140</stringProp>
             <stringProp name="1660">40</stringProp>
             <stringProp name="49">1</stringProp>
@@ -466,7 +466,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename"></stringProp>
+          <stringProp name="filename">C:\Users\Adam Stevenson\JMeter\csv\spike.csv</stringProp>
         </ResultCollector>
         <hashTree/>
         <ResultCollector guiclass="GraphVisualizer" testclass="ResultCollector" testname="Graph Results" enabled="true">
