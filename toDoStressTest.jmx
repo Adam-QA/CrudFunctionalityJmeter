@@ -14,7 +14,7 @@
     <hashTree>
       <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="jp@gc - Ultimate Thread Group" enabled="true">
         <collectionProp name="ultimatethreadgroupdata">
-          <collectionProp name="-588067616">
+          <collectionProp name="-800846715">
             <stringProp name="48687">120</stringProp>
             <stringProp name="0">0</stringProp>
             <stringProp name="1629">30</stringProp>
@@ -323,6 +323,10 @@
             <boolProp name="displayJMeterVariables">true</boolProp>
             <boolProp name="displaySystemProperties">false</boolProp>
           </DebugSampler>
+          <hashTree/>
+          <ConstantTimer guiclass="ConstantTimerGui" testclass="ConstantTimer" testname="Constant Timer" enabled="true">
+            <stringProp name="ConstantTimer.delay">600</stringProp>
+          </ConstantTimer>
           <hashTree/>
         </hashTree>
         <GenericController guiclass="LogicControllerGui" testclass="GenericController" testname="Delete Controller" enabled="true"/>
